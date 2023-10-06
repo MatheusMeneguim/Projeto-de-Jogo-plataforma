@@ -42,11 +42,13 @@
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"spr_hero_jump","path":"sprites/spr_hero_jump/spr_hero_jump.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
+    {"id":{"name":"fnt_vampirezone","path":"fonts/fnt_vampirezone/fnt_vampirezone.yy",},},
     {"id":{"name":"obj_hero","path":"objects/obj_hero/obj_hero.yy",},},
     {"id":{"name":"spr_hero_run","path":"sprites/spr_hero_run/spr_hero_run.yy",},},
     {"id":{"name":"spr_background2","path":"sprites/spr_background2/spr_background2.yy",},},
     {"id":{"name":"Notas","path":"notes/Notas/Notas.yy",},},
     {"id":{"name":"spr_hero_idle","path":"sprites/spr_hero_idle/spr_hero_idle.yy",},},
+    {"id":{"name":"timer","path":"objects/timer/timer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
